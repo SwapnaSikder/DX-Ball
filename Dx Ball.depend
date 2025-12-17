@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1759688797 source:c:\users\swapna sikder\music\graphics_codes\dx ball\main.c
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<mmsystem.h>
+
